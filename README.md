@@ -20,6 +20,8 @@ JavaScript, React Js, E NodeJS.
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <br> <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=Marcos-OliveiraVO&color=green" alt="Marcos-OliveiraVO" />
 
 </div>
   
