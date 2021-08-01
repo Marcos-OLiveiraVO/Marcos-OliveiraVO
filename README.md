@@ -4,8 +4,8 @@ Sou Estudante Full Stack, Apaixonado Pelo que Faço Tenho Experiencia Em Projeto
 Sou Aluno Do Curso ProgramadorBR Onde Estou Aprendendo A Ser Um Desenvolvedor Full Stack , Onde Na Pratica Estou Estudando
 JavaScript, React Js, E NodeJS.
 
-- 🖥️ Atualmente Trabalhando No Front-End.
-- 📚 Estudando E Focado Em JS.
+- 🖥️ Estudando: Full Stack Developer.
+- 📚 Atualmente Focado Em JavaScriptS.
 - 🔥 Experiencia Em JavaScript, HTML, CSS.
 
 <div>
