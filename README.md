@@ -5,7 +5,7 @@ Sou Aluno Do Curso ProgramadorBR Onde Estou Aprendendo A Ser Um Desenvolvedor Fu
 JavaScript, React Js, E NodeJS.
 
 - 🖥️ Estudando: Full Stack Developer.
-- 📚 Atualmente Focado Em JavaScriptS.
+- 📚 Atualmente Focado Em JavaScript.
 - 🔥 Experiencia Em JavaScript, HTML, CSS.
 
 <div>
