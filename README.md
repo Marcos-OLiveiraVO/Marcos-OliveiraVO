@@ -1,12 +1,11 @@
 ### Opa, Tudo Bom   👋
 
-Sou Estudante Full Stack, Apaixonado Pelo que Faço Tenho Experiencia Em Projetos Usando, JavaScript, HTML , CSS.
-Sou Aluno Do Curso ProgramadorBR Onde Estou Aprendendo A Ser Um Desenvolvedor Full Stack , Onde Na Pratica Estou Estudando
-JavaScript, React Js, E NodeJS.
+Sou Desenvolvedor Back-End, Apaixonado Pelo que Faço Tenho Experiencia Em Projetos Usando, JavaScript, HTML , CSS , NodeJs E MongoDB
+Sempre Em busca de Desenvolver minhas soft skills, como também trabalhar com metodologias ageis.
 
-- 🖥️ Estudando: Full Stack Developer.
-- 📚 Atualmente Focado Em JavaScript.
-- 🔥 Experiencia Em JavaScript, HTML, CSS.
+- 🖥️ Desenvolvedor: Back-End.
+- 📚 Focado Em JavaScript.
+- 🔥 Experiencia Em JavaScript, HTML, CSS, NodeJS E MongoDb.
 
 <div>
   
