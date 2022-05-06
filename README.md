@@ -1,11 +1,11 @@
 ### Opa, Tudo Bom   👋
 
-Sou Desenvolvedor Back-End, Apaixonado Pelo que Faço Tenho Experiencia Em Projetos Usando, JavaScript, HTML , CSS , NodeJs E MongoDB.
-Sempre Em busca de Desenvolver minhas soft skills, como também trabalhar com metodologias ageis.
+Sou Desenvolvedor Back-End, Apaixonado Pelo que Faço Tenho Experiencia Em Projetos Usando, JavaScript, HTML , CSS , NodeJs Com SQL e NoSQL.
+Sempre Em busca de Desenvolver minhas soft skills, como também trabalhar com metodologias ageis, Como por Exemplo o Scrum.
 
 - 🖥️ Desenvolvedor: Back-End.
 - 📚 Focado Em JavaScript.
-- 🔥 Experiencia Em JavaScript, HTML, CSS, NodeJS E MongoDb.
+- 🔥 Experiencia Em JavaScript, HTML, CSS, NodeJS, Express, Sockets, NoSQL, SQL, Git, EJS.
 
 <div>
   
