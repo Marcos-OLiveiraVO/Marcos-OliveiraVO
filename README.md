@@ -8,6 +8,7 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
   [![logo java](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
  [![logo java](https://img.shields.io/badge/Node-ED8B00?style=for-the-badge&logo=node.js&logoColor=white)](#)
 <br>  
+
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
 
 <div style="display: inline_block">
@@ -22,7 +23,6 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 [![logo java](https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=Git&logoColor=white)](#)
 [![logo java](https://img.shields.io/badge/EJS-ED8B00?style=for-the-badge&logo=EmbeddedJavaScripttemplating&logoColor=white)](#)
 
-  
   
   <br>
   <img src="https://komarev.com/ghpvc/?username=Marcos-OliveiraVO&color=green" alt="Marcos-OliveiraVO" />
