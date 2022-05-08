@@ -18,6 +18,7 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 [![logo java](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
 [![logo java](https://img.shields.io/badge/HTML-ED8B00?style=for-the-badge&logo=HTML5&logoColor=white)](#)
 [![logo java](https://img.shields.io/badge/Express-ED8B00?style=for-the-badge&logo=Express&logoColor=white)](#)
+<br>
 [![logo java](https://img.shields.io/badge/Socket.io-ED8B00?style=for-the-badge&logo=Socket.io&logoColor=white)](#)
 [![logo java](https://img.shields.io/badge/MongoDB-ED8B00?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![logo java](https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=Git&logoColor=white)](#)
@@ -34,6 +35,7 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
   [![logo java](https://img.shields.io/badge/React-ED8B00?style=for-the-badge&logo=React&logoColor=white)](#)
   [![logo java](https://img.shields.io/badge/redux-ED8B00?style=for-the-badge&logo=redux&logoColor=white)](#)
   [![logo java](https://img.shields.io/badge/docker-ED8B00?style=for-the-badge&logo=docker&logoColor=white)](#)
+  [![logo java](https://img.shields.io/badge/PostgreSQL-ED8B00?style=for-the-badge&logo=PostgreSQL&logoColor=white)](#)
 </div>
   <br>
   
