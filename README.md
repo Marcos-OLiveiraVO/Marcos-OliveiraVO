@@ -7,21 +7,9 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 - 📚 Focado Em JavaScript E Node.js. <br> <br>
   [![logo java](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
  [![logo java](https://img.shields.io/badge/Node-ED8B00?style=for-the-badge&logo=node.js&logoColor=white)](#)
-<br>
-
-
-<div>
-  
-  <a href="https://github.com/Marcos-OliveiraVO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-OliveiraVO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-OliveiraVO&layout=compact&langs_count=7&theme=dracula"/>
-
-</div>
-  
-
+<br>  
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
 
-  
 <div style="display: inline_block">
   <h3>- 🔥 Tecnologias Que uso 🔥 </h3>
   
@@ -48,6 +36,14 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
   [![logo java](https://img.shields.io/badge/docker-ED8B00?style=for-the-badge&logo=docker&logoColor=white)](#)
 </div>
   <br>
+  
+  <div>
+  
+  <a href="https://github.com/Marcos-OliveiraVO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-OliveiraVO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-OliveiraVO&layout=compact&langs_count=7&theme=dracula"/>
+
+</div>
  
 ## :white_check_mark: Minhas estatísticas ##
    <a href = "mailto:MarcosOliveira.rd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
