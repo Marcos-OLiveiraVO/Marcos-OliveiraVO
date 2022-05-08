@@ -37,6 +37,8 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 </div>
   <br>
   
+  ## :white_check_mark: Minhas estatísticas ##
+  
   <div>
   
   <a href="https://github.com/Marcos-OliveiraVO">
@@ -45,7 +47,7 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 
 </div>
  
-## :white_check_mark: Minhas estatísticas ##
+
    <a href = "mailto:MarcosOliveira.rd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/marcos-oliveira-a5b676236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </a>
