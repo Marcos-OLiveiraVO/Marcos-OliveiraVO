@@ -30,4 +30,4 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 ## Obrigado por visitar o meu perfil :wave:
 
 ### Os Meus principais Projetos estão aqui em baixo, vai lá dar uma olhada.
-[agradecendo a visita](https://user-images.githubusercontent.com/41841454/167220106-fdcd138f-7a91-4dfd-9a94-b5ef671b859c.gif)](#)
+[![agradecendo a visita]](https://user-images.githubusercontent.com/41841454/167220106-fdcd138f-7a91-4dfd-9a94-b5ef671b859c.gif)](#)
