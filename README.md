@@ -5,8 +5,8 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 
 - 🖥️ Desenvolvedor: Back-End.
 - 📚 Focado Em JavaScript E Node.js. <br> <br>
-  [![logo java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
- [![logo java](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=white)](#)
+  [![logo java](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
+ [![logo java](https://img.shields.io/badge/Node-ED8B00?style=for-the-badge&logo=node.js&logoColor=white)](#)
 <br>  
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
@@ -14,16 +14,15 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 <div style="display: inline_block">
   <h3>- 🔥 Tecnologias Que uso 🔥 </h3>
   
-[![logo java](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=HTML5&logoColor=white)](#)
-[![logo java](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=CSS&logoColor=white)](#)
-[![logo java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
-[![logo java](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=black)](#)
-[![logo java](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white)](#)
+[![logo java](https://img.shields.io/badge/Node-ED8B00?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![logo java](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
+[![logo java](https://img.shields.io/badge/HTML-ED8B00?style=for-the-badge&logo=HTML5&logoColor=white)](#)
+[![logo java](https://img.shields.io/badge/Express-ED8B00?style=for-the-badge&logo=Express&logoColor=white)](#)
 <br>
-[![logo java](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=Socket.io&logoColor=white)](#)
-[![logo java](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![logo java](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=Git&logoColor=white)](#)
-[![logo java](https://img.shields.io/badge/EJS-07405E?style=for-the-badge&logo=EmbeddedJavaScripttemplating&logoColor=white)](#)
+[![logo java](https://img.shields.io/badge/Socket.io-ED8B00?style=for-the-badge&logo=Socket.io&logoColor=white)](#)
+[![logo java](https://img.shields.io/badge/MongoDB-ED8B00?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![logo java](https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=Git&logoColor=white)](#)
+[![logo java](https://img.shields.io/badge/EJS-ED8B00?style=for-the-badge&logo=EmbeddedJavaScripttemplating&logoColor=white)](#)
 
   
   <br>
@@ -58,3 +57,6 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
   
 ### Os Meus principais Projetos estão aqui em baixo, então vai lá dar uma olhada 😄.
   ## Obrigado por visitar o meu perfil, até a proxima !:wave:
+![giphy](https://user-images.githubusercontent.com/88260644/167315071-35f82826-e650-49bc-8154-cbca78ce7210.gif)
+
+  
