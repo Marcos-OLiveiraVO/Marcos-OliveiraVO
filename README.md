@@ -33,8 +33,7 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
   React, Reduce, Docker.
 </div>
   <br>
-  <br>
-
+ 
 ## :white_check_mark: Minhas estatísticas ##
    <a href = "mailto:MarcosOliveira.rd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
