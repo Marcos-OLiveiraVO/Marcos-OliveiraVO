@@ -5,7 +5,7 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 
 - 🖥️ Desenvolvedor: Back-End.
 - 📚 Focado Em JavaScript.
-- 🔥 Experiencia Em JavaScript, HTML, CSS, NodeJS, Express, Sockets, NoSQL, SQL, Git, EJS.
+
 
 <div>
   
@@ -21,10 +21,14 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 
   
 <div style="display: inline_block">
-  <h3>- 🔥 Experiencia Em JavaScript, HTML, CSS, NodeJS, Express, Sockets, NoSQL, SQL, Git, EJS. </h3>
+  <h3>- 🔥 Tecnologias Que uso </h3>
+  JavaScript, HTML, CSS, NodeJS, Express, Sockets, NoSQL, SQL, Git, EJS. 
+  <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Marcos-OliveiraVO&color=green" alt="Marcos-OliveiraVO" />
 
+  <h3> - 🔥 Em Desenvolvimento </h3>
+  React, Reduce, Docker.
 </div>
 
 ## :white_check_mark: Minhas estatísticas ##
