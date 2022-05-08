@@ -17,19 +17,23 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
   
 
 
-## :books: Tecnologias que uso e estou me desenvolvendo ##
+## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
 
   
 <div style="display: inline_block">
-  <h3>- 🔥 Tecnologias Que uso </h3>
+  <h3>- 🔥 Tecnologias Que uso 🔥 </h3>
   JavaScript, HTML, CSS, NodeJS, Express, Sockets, NoSQL, SQL, Git, EJS. 
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Marcos-OliveiraVO&color=green" alt="Marcos-OliveiraVO" />
 
-  <h3> - 🔥 Em Desenvolvimento </h3>
+ ## :books: Tecnologias que uso e estou me desenvolvendo 📚 ##
+  
+  <h3> - 🔥 Em Desenvolvimento 🔥 </h3>
   React, Reduce, Docker.
 </div>
+  <br>
+  <br>
 
 ## :white_check_mark: Minhas estatísticas ##
    <a href = "mailto:MarcosOliveira.rd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -37,4 +41,4 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 ![Snake animation](https://github.com/Marcos-OliveiraVO/Marcos-OliveiraVO/blob/output/github-contribution-grid-snake.svg)
 ## Obrigado por visitar o meu perfil :wave:
 
-### Os Meus principais Projetos estão aqui em baixo, vai lá dar uma olhada.
+### Os Meus principais Projetos estão aqui em baixo, então vai lá dar uma olhada 😄.
