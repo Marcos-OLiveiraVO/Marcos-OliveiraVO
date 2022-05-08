@@ -49,10 +49,6 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 
 </div>
  
-
-   
-## Obrigado por visitar o meu perfil :wave:
-
   <a href = "mailto:MarcosOliveira.rd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/marcos-oliveira-a5b676236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </a>
@@ -60,3 +56,4 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 ![Snake animation](https://github.com/Marcos-OliveiraVO/Marcos-OliveiraVO/blob/output/github-contribution-grid-snake.svg)
   
 ### Os Meus principais Projetos estão aqui em baixo, então vai lá dar uma olhada 😄.
+  ## Obrigado por visitar o meu perfil, até a proxima !:wave:
