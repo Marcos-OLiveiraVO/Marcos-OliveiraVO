@@ -4,7 +4,7 @@
 __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente Meu foco é o Back-End. No meu tempo de lazer gosto de jogar videogame, ouvir música, Assistir series, A E eu amo gatos.__
 
 - 🖥️ Desenvolvedor: Back-End.
-- 📚 Focado Em JavaScript.
+- 📚 Focado Em JavaScript E Node.js.
 
 
 <div>
