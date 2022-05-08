@@ -15,16 +15,16 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
   <h3>- 🔥 Tecnologias Que uso 🔥 </h3>
 
 [![logo Node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=black)](#)
-[![logo Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=Socket.io&logoColor=white)](#)
 [![logo Express](https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=Express&logoColor=white)](#)
+[![logo Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=Socket.io&logoColor=white)](#)
+[![logo EJS](https://img.shields.io/badge/EJS-grey?style=for-the-badge&logo=EmbeddedJavaScripttemplating&logoColor=white)](#)
 <br>
-[![logo JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](#)
 [![logo HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=HTML5&logoColor=white)](#)
 [![logo CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=CSS&logoColor=white)](#)
+[![logo JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](#)
 <br>
-[![logo MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![logo Git](https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=Git&logoColor=white)](#)
-[![logo EJS](https://img.shields.io/badge/EJS-grey?style=for-the-badge&logo=EmbeddedJavaScripttemplating&logoColor=white)](#)
+[![logo MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
   
   <br>
