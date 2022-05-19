@@ -1,7 +1,7 @@
 
 # Hello There! Eu sou o Marcos Oliveira :smile: :space_invader: :doughnut:
 
-__Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente Meu foco é o Back-End. No meu tempo de lazer gosto de jogar videogame, ouvir música, Assistir series, E eu amo gatos.__
+__Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente Meu foco é o Back-End. No meu tempo de lazer gosto de jogar videogame, ouvir música, Assistir series, E eu amo gatos, Fanatico por basquete e E-sports.__
 
 - 🖥️ Desenvolvedor: Back-End.
 - 📚 Focado Em JavaScript E Node.js. <br> <br>
