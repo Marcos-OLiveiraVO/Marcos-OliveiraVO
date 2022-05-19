@@ -26,6 +26,8 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 <br>
 [![logo Git](https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=Git&logoColor=white)](#)
 [![logo Git](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github&logoColor=white)](#)
+[![logo Heroku](https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=Heroku&logoColor=white)](#)
+  
   
 
   
