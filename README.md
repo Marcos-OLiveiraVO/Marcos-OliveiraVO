@@ -19,6 +19,7 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 [![logo Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=Socket.io&logoColor=white)](#)
 [![logo EJS](https://img.shields.io/badge/EJS-grey?style=for-the-badge&logo=template&logoColor=white)](#)
 [![logo MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![logo Jest](https://img.shields.io/badge/Jest-brown?style=for-the-badge&logo=jest&logoColor=white)](#)
 <br>
 [![logo HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=HTML5&logoColor=white)](#)
 [![logo CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)](#)
