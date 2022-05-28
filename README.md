@@ -24,6 +24,7 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 [![logo HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=HTML5&logoColor=white)](#)
 [![logo CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![logo JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](#)
+[![logo TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=JavaScript&logoColor=black)](#)
 <br>
 [![logo Git](https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=Git&logoColor=white)](#)
 [![logo Git](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github&logoColor=white)](#)
