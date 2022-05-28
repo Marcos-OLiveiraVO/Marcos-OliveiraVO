@@ -5,7 +5,7 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 
 - 🖥️ Desenvolvedor: Back-End.
 - 📚 Focado Em JavaScript E Node.js. <br> <br>
-  [![logo javascript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
+  [![logo TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
  [![logo node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=white)](#)
 <br>  
 
