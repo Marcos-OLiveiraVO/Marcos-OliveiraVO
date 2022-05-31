@@ -21,7 +21,7 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 [![logo MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![logo Jest](https://img.shields.io/badge/Jest-brown?style=for-the-badge&logo=jest&logoColor=white)](#)
 [![logo Mocha](https://img.shields.io/badge/Mocha-brown?style=for-the-badge&logo=Mocha&logoColor=black)](#)
-[![logo Jest](https://img.shields.io/badge/Chai.js-brown?style=for-the-badge&logo=Chai.js&logoColor=white)](#)
+[![logo Chai.js](https://img.shields.io/badge/Chai.js-beige?style=for-the-badge&logo=Chai.js&logoColor=white)](#)
 <br>
 [![logo HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=HTML5&logoColor=white)](#)
 [![logo CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)](#)
