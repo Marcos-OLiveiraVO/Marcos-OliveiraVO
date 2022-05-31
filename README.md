@@ -4,7 +4,7 @@
 __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente Meu foco é o Back-End. No meu tempo de lazer gosto de jogar videogame, ouvir música, Assistir series, eu amo gatos, E sou Fanatico por basquete e E-sports.__
 
 - 🖥️ Desenvolvedor: Back-End.
-- 📚 Focado Em JavaScript E Node.js. <br> <br>
+- 📚 Focado Em TypeScript E Node.js. <br> <br>
   [![logo TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
  [![logo node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=white)](#)
 <br>  
