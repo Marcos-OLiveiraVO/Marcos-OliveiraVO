@@ -12,7 +12,7 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
 
 <div style="display: inline_block">
-  <h3>- 🔥 Tecnologias Que uso 🔥 </h3>
+
 
 [![logo Node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=black)](#)
 [![logo Express](https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=Express&logoColor=white)](#)
@@ -39,8 +39,6 @@ __Eu sou um desenvolvedor brasileiro voltado para aplicações web. E atualmente
   <img src="https://komarev.com/ghpvc/?username=Marcos-OliveiraVO&color=green" alt="Marcos-OliveiraVO" />
 
  ## :books: Tecnologias que uso e estou me desenvolvendo 📚 ##
- 
-  <h3> - 🔥 Em Desenvolvimento 🔥 </h3>
   
   [![logo java](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=white)](#)
   [![logo java](https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux&logoColor=white)](#)
