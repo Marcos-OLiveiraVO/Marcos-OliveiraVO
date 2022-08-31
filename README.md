@@ -1,10 +1,10 @@
 
 # Hello There! Eu sou o Marcos Oliveira :smile: :space_invader: :doughnut:
 
-__Eu sou um desenvolvedor voltado para aplicações web. E atualmente Meu foco é o Back-End. No meu tempo de lazer gosto de jogar videogame, ouvir música, Assistir series, eu amo gatos, E sou Fanatico por basquete e E-sports.__
+__Desenvolvedor voltado para aplicações web. E atualmente meu objetivo é o Back-End. No meu dia a dia gosto de ouvir música, assistir series, eu amo gatos, e sou fanatico por basquete e E-sports.__
 
 - 🖥️ Desenvolvedor: Back-End.
-- 📚 Focado Em TypeScript E Node.js. <br> <br>
+- 📚 Focado em TypeScript E Node.js. <br> <br>
   [![logo TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
  [![logo node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=white)](#)
 <br>  
@@ -63,7 +63,7 @@ __Eu sou um desenvolvedor voltado para aplicações web. E atualmente Meu foco �
 
 ![Snake animation](https://github.com/Marcos-OliveiraVO/Marcos-OliveiraVO/blob/output/github-contribution-grid-snake.svg)
   
-### Os Meus principais Projetos estão aqui em baixo, então vai lá dar uma olhada 😄.
+### Os meus principais projetos estão aqui em baixo, então vai lá dar uma olhada 😄.
   ## Obrigado por visitar o meu perfil, até a proxima !:wave:
 ![giphy](https://user-images.githubusercontent.com/88260644/167315071-35f82826-e650-49bc-8154-cbca78ce7210.gif)
 
