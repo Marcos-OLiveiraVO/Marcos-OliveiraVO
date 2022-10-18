@@ -61,7 +61,6 @@ __Desenvolvedor voltado para aplicações web. E atualmente meu objetivo é o Ba
   <a href="https://www.linkedin.com/in/marcos-oliveira-a5b676236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </a>
 
-![Snake animation](https://github.com/Marcos-OliveiraVO/Marcos-OliveiraVO/blob/output/github-contribution-grid-snake.svg)
   
 ### Os meus principais projetos estão aqui em baixo, então vai lá dar uma olhada 😄.
   ## Obrigado por visitar o meu perfil, até a proxima !:wave:
