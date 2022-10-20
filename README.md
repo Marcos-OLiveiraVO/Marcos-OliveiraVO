@@ -1,7 +1,7 @@
 
 # Hello There! Eu sou o Marcos Oliveira :smile: :space_invader: :doughnut:
 
-__Desenvolvedor voltado para aplicações web. E atualmente meu objetivo é o Back-End. No meu dia a dia gosto de ouvir música, assistir series, eu amo gatos, e sou fanatico por basquete e E-sports. Aqui é onde voce vai poder descobrir um pouco mais sobre as minhas skills e demais projetos.__
+__Desenvolvedor voltado para aplicações web. E atualmente trabalho com Back-End, principalmente utilizando Node. No meu dia a dia gosto de ouvir música, assistir series, eu amo gatos, e sou fanatico por basquete e E-sports. E aqui é onde voce vai poder descobrir um pouco mais sobre as minhas skills e demais projetos.__
 
 - 🖥️ Desenvolvedor: Back-End.
 - 📚 Focado em TypeScript E Node.js. <br> <br>
@@ -16,6 +16,7 @@ __Desenvolvedor voltado para aplicações web. E atualmente meu objetivo é o Ba
 
 [![logo Node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=black)](#)
 [![logo Express](https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=Express&logoColor=white)](#)
+[![logo OvernightJs](https://img.shields.io/badge/OvernightJs-darkblue?style=for-the-badge&logo=OvernightJS&logoColor=white)](#)
 [![logo Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=Socket.io&logoColor=white)](#)
 [![logo EJS](https://img.shields.io/badge/EJS-grey?style=for-the-badge&logo=template&logoColor=white)](#)
 [![logo MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](#)
