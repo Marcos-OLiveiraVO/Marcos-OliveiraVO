@@ -38,7 +38,7 @@
 
   
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Marcos-OliveiraVO&color=green" alt="Marcos-OliveiraVO" />
+  
 
   <h2> :books: Tecnologias que uso e estou me desenvolvendo 📚 </h2>
   
