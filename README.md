@@ -32,10 +32,7 @@
 [![logo TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=JavaScript&logoColor=black)](#)
 [![logo Git](https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=Git&logoColor=white)](#)
 [![logo Git](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github&logoColor=white)](#)
-[![logo Heroku](https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=Heroku&logoColor=white)](#)
-  <br>
-  <h3> :books: Tecnologias que uso e estou me desenvolvendo 📚 </h3>
-  
+[![logo Heroku](https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=Heroku&logoColor=white)](#) 
   [![logo java](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=white)](#)
   [![logo java](https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux&logoColor=white)](#)
   [![logo java](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)](#)
