@@ -12,7 +12,7 @@
  [![logo node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=white)](#)
 <br>  
 
-## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
+<h2>:star: Tecnologias nas quais tenho maior conhecimento :star:</h2>
 
 <div style="display: inline_block">
 
@@ -40,7 +40,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=Marcos-OliveiraVO&color=green" alt="Marcos-OliveiraVO" />
 
- ## :books: Tecnologias que uso e estou me desenvolvendo 📚 ##
+  <h2> :books: Tecnologias que uso e estou me desenvolvendo 📚 </h2>
   
   [![logo java](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=white)](#)
   [![logo java](https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux&logoColor=white)](#)
