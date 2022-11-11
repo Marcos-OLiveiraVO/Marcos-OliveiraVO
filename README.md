@@ -33,13 +33,7 @@
 [![logo Git](https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=Git&logoColor=white)](#)
 [![logo Git](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github&logoColor=white)](#)
 [![logo Heroku](https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=Heroku&logoColor=white)](#)
-  
-  
-
-  
   <br>
-  
-
   <h3> :books: Tecnologias que uso e estou me desenvolvendo 📚 </h3>
   
   [![logo java](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=white)](#)
@@ -58,16 +52,16 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-OliveiraVO&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
- 
+ <br>
+  
   <a href = "mailto:marcosoliveira.rd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/marcos-oliveira-a5b676236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </a>
 
   
-  <h3> Os meus principais projetos estão aqui em baixo, então vai lá dar uma olhada 😄.</h3>
-  <h3> Obrigado por visitar o meu perfil, até a proxima !:wave: </h3>
+  <h5> Os meus principais projetos estão aqui em baixo, então vai lá dar uma olhada 😄.</h5>
+  <h5> Obrigado por visitar o meu perfil, até a proxima !:wave: </h5>
   
   
-![giphy](https://user-images.githubusercontent.com/88260644/167315071-35f82826-e650-49bc-8154-cbca78ce7210.gif)
 
   
