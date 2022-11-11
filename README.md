@@ -5,18 +5,15 @@
 <br>
 <br>
 
-
 - 🖥️ Desenvolvedor: Back-End.
 - 📚 Focado em TypeScript E Node.js. <br> <br>
   [![logo TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
  [![logo node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=white)](#)
 <br>  
-
 <h3>:star: Tecnologias nas quais tenho maior conhecimento :star:</h3>
 
 <div style="display: inline_block">
-
-
+  
 [![logo Node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=black)](#)
 [![logo Express](https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=Express&logoColor=white)](#)
 [![logo OvernightJs](https://img.shields.io/badge/OvernightJs-darkblue?style=for-the-badge&logo=OvernightJS&logoColor=white)](#)
@@ -47,10 +44,8 @@
   <a href="https://github.com/Marcos-OliveiraVO">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcos-OliveiraVO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-OliveiraVO&layout=compact&langs_count=7&theme=dracula"/>
-
 </div>
  <br>
-  
   <a href = "mailto:marcosoliveira.rd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/marcos-oliveira-a5b676236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </a>
