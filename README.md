@@ -12,7 +12,7 @@
  [![logo node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=white)](#)
 <br>  
 
-<h2>:star: Tecnologias nas quais tenho maior conhecimento :star:</h2>
+<h3>:star: Tecnologias nas quais tenho maior conhecimento :star:</h3>
 
 <div style="display: inline_block">
 
@@ -40,7 +40,7 @@
   <br>
   
 
-  <h2> :books: Tecnologias que uso e estou me desenvolvendo 📚 </h2>
+  <h3> :books: Tecnologias que uso e estou me desenvolvendo 📚 </h3>
   
   [![logo java](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=white)](#)
   [![logo java](https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux&logoColor=white)](#)
@@ -64,8 +64,10 @@
   </a>
 
   
-### Os meus principais projetos estão aqui em baixo, então vai lá dar uma olhada 😄.
-  ## Obrigado por visitar o meu perfil, até a proxima !:wave:
+  <h3> Os meus principais projetos estão aqui em baixo, então vai lá dar uma olhada 😄.</h3>
+  <h3> Obrigado por visitar o meu perfil, até a proxima !:wave: </h3>
+  
+  
 ![giphy](https://user-images.githubusercontent.com/88260644/167315071-35f82826-e650-49bc-8154-cbca78ce7210.gif)
 
   
