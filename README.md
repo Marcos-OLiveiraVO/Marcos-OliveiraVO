@@ -1,7 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Marcos Oliveira.</h1>
 
-<h4 align="center">Desenvolvedor voltado para aplicações web. E atualmente trabalho com Back-End, principalmente utilizando Node com TypeScript/JavaScript. No meu dia a dia gosto de ouvir música, assistir series, eu amo gatos, e sou fanatico por basquete e E-sports. E aqui é onde voce vai poder descobrir um pouco mais sobre as minhas skills e demais projetos.</h4>
+<h4 align="center">Sou um desenvolvedor web altamente experiente, com uma forte paixão por criar aplicativos de alto desempenho e de qualidade. Atualmente, me concentro em desenvolvimento back-end, principalmente usando Node.js e TypeScript/JavaScript. Além disso, estou sempre procurando aprender novas tecnologias e aplicá-las em meus projetos.<br><br>
+
+Fora do trabalho, gosto de relaxar ouvindo música, assistindo séries e cuidar de meus gatos. Sou também um grande fã de basquete e e-sports, e gosto de acompanhar os jogos e torneios mais importantes.
+
+No meu perfil, você pode ver um resumo de minhas habilidades e projetos anteriores. Ficaria feliz em compartilhar mais detalhes sobre meu trabalho e discutir como posso contribuir para o sucesso de sua empresa.</h4>
 <br>
 <br>
 
