@@ -20,10 +20,13 @@ No meu perfil, você pode ver um resumo de minhas habilidades e projetos anterio
   
 [![logo Node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=black)](#)
 [![logo Express](https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=Express&logoColor=white)](#)
+[![logo NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=NestJS&logoColor=white)](#)
 [![logo OvernightJs](https://img.shields.io/badge/OvernightJs-darkblue?style=for-the-badge&logo=OvernightJS&logoColor=white)](#)
 [![logo Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=Socket.io&logoColor=white)](#)
 [![logo EJS](https://img.shields.io/badge/EJS-grey?style=for-the-badge&logo=template&logoColor=white)](#)
 [![logo MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![logo SQL](https://img.shields.io/badge/SQL-green?style=for-the-badge&logo=SQL&logoColor=white)](#)
+[![logo Prisma](https://img.shields.io/badge/Prisma-blue?style=for-the-badge&logo=Prisma&logoColor=white)](#)
 [![logo Jest](https://img.shields.io/badge/Jest-brown?style=for-the-badge&logo=jest&logoColor=white)](#)
 [![logo Mocha](https://img.shields.io/badge/Mocha-brown?style=for-the-badge&logo=Mocha&logoColor=black)](#)
 [![logo Chai.js](https://img.shields.io/badge/Chai.js-beige?style=for-the-badge&logo=Chai.js&logoColor=white)](#)
