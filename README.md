@@ -1,5 +1,11 @@
+![download](https://user-images.githubusercontent.com/88260644/210659198-92354c24-4432-4efb-aa30-2a2976cc270c.gif )
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Marcos Oliveira.</h1>
+
 
 <h4 align="center">Sou um desenvolvedor web altamente experiente, com uma forte paixão por criar aplicativos de alto desempenho e de qualidade. Atualmente, me concentro em desenvolvimento back-end, principalmente usando Node.js e TypeScript/JavaScript. Além disso, estou sempre procurando aprender novas tecnologias e aplicá-las em meus projetos.<br><br>
 
