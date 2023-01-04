@@ -1,8 +1,9 @@
-![download](https://user-images.githubusercontent.com/88260644/210659198-92354c24-4432-4efb-aa30-2a2976cc270c.gif )
+<h1 align="center">
+<br>
+  
+  ![download](https://user-images.githubusercontent.com/88260644/210659198-92354c24-4432-4efb-aa30-2a2976cc270c.gif) 
 
-
-
-
+</h1>
 
 <h1 align="center">Hi 👋, I'm Marcos Oliveira.</h1>
 
