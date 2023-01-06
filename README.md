@@ -1,6 +1,3 @@
-<h1 align="center" width="20em">
-<br>
-  
 
 </h1>
 
