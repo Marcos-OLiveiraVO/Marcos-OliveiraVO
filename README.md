@@ -39,10 +39,11 @@ No meu perfil, você pode ver um resumo de minhas habilidades e projetos anterio
 [![logo Git](https://img.shields.io/badge/Git-ED8B00?style=for-the-badge&logo=Git&logoColor=white)](#)
 [![logo Git](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github&logoColor=white)](#)
 [![logo Heroku](https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=Heroku&logoColor=white)](#) 
-  [![logo java](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=white)](#)
-  [![logo java](https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux&logoColor=white)](#)
-  [![logo java](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)](#)
-  [![logo java](https://img.shields.io/badge/PostgreSQL-ocean?style=for-the-badge&logo=PostgreSQL&logoColor=white)](#)
+[![logo java](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=white)](#)
+[![logo java](https://img.shields.io/badge/redux-purple?style=for-the-badge&logo=redux&logoColor=white)](#)
+[![logo java](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![logo java](https://img.shields.io/badge/PostgreSQL-ocean?style=for-the-badge&logo=PostgreSQL&logoColor=white)](#)
+[![logo TypeORM](https://img.shields.io/badge/TypeORM-ocean?style=for-the-badge&logo=TypeORM&logoColor=white)](#)
 </div>
   <br>
   
