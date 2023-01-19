@@ -28,6 +28,7 @@ No meu perfil, você pode ver um resumo de minhas habilidades e projetos anterio
 [![logo MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![logo SQL](https://img.shields.io/badge/SQL-green?style=for-the-badge&logo=SQL&logoColor=white)](#)
 [![logo Prisma](https://img.shields.io/badge/Prisma-blue?style=for-the-badge&logo=Prisma&logoColor=white)](#)
+[![logo Swagger](https://img.shields.io/badge/Swagger-blue?style=for-the-badge&logo=Swagger&logoColor=white)](#)
 [![logo Jest](https://img.shields.io/badge/Jest-brown?style=for-the-badge&logo=jest&logoColor=white)](#)
 [![logo Mocha](https://img.shields.io/badge/Mocha-brown?style=for-the-badge&logo=Mocha&logoColor=black)](#)
 [![logo Chai.js](https://img.shields.io/badge/Chai.js-beige?style=for-the-badge&logo=Chai.js&logoColor=white)](#)
