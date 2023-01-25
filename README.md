@@ -2,20 +2,20 @@
 <h1 align="center">Hi 👋, I'm Marcos Oliveira.</h1>
 
 
-<h4 align="center">Sou um desenvolvedor web altamente experiente, com uma forte paixão por criar aplicativos de alto desempenho e de qualidade. Atualmente, me concentro em desenvolvimento back-end, principalmente usando Node.js e TypeScript/JavaScript. Além disso, estou sempre procurando aprender novas tecnologias e aplicá-las em meus projetos.<br><br>
+<h4 align="center">I'm a highly experienced web developer with a strong passion for building high-performance and quality applications. Currently, I focus on back-end development, mostly using Node.js and TypeScript/JavaScript. Also, I'm always looking to learn new technologies and apply them to my projects.<br><br>
 
-Fora do trabalho, gosto de relaxar ouvindo música, assistindo séries e cuidar de meus gatos. Sou também um grande fã de basquete e e-sports, e gosto de acompanhar os jogos e torneios mais importantes.
+Outside of work, I like to relax listening to music, watching series and taking care of my cats. I'm also a big fan of basketball and e-sports, and I like to follow the most important games and tournaments.
 
-No meu perfil, você pode ver um resumo de minhas habilidades e projetos anteriores. Ficaria feliz em compartilhar mais detalhes sobre meu trabalho e discutir como posso contribuir para o sucesso de sua empresa.</h4>
+In my profile you can see a summary of my skills and past projects. I would be happy to share more details about my work and discuss how I can contribute to your company's success.</h4>
 <br>
 <br>
 
-- 🖥️ Desenvolvedor: Back-End.
-- 📚 Focado em TypeScript E Node.js. <br> <br>
+- 🖥️ Developer: Back-End.
+- 📚 Focused on TypeScript And Node.js. <br> <br>
   [![logo TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
  [![logo node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=white)](#)
 <br>  
-<h3>:star: Tecnologias nas quais tenho maior conhecimento :star:</h3>
+<h3>:star: Technologies in which I have greater knowledge :star:</h3>
 
 <div style="display: inline_block">
   
@@ -47,7 +47,7 @@ No meu perfil, você pode ver um resumo de minhas habilidades e projetos anterio
 </div>
   <br>
   
-  ## :white_check_mark: Minhas estatísticas ##
+  ## :white_check_mark: My stats ##
   
   <div>
   
@@ -61,8 +61,8 @@ No meu perfil, você pode ver um resumo de minhas habilidades e projetos anterio
   </a>
 
   
-  <h5> Os meus principais projetos estão aqui em baixo, então vai lá dar uma olhada 😄.</h5>
-  <h5> Obrigado por visitar o meu perfil, até a proxima !:wave: </h5>
+  <h5> My main projects are below, so go check them out 😄.</h5>
+  <h5> Thank you for visiting my profile, see you next time !:wave: </h5>
   
   
 
