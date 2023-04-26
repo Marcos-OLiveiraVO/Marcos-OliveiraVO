@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Marcos Oliveira.</h1>
 
 
-<h4 align="center">I'm a highly experienced web developer with a strong passion for building high-performance and quality applications. Currently, I focus on back-end development, mostly using Node.js and TypeScript/JavaScript. Also, I'm always looking to learn new technologies and apply them to my projects.<br><br>
+<h4 align="center">I'm a highly experienced web developer with a strong passion for building high-performance and quality applications. Currently, I focus on back-end development, mostly using Node.js and TypeScript/JavaScript..<br><br>
 
 Outside of work, I like to relax listening to music, watching series and taking care of my cats. I'm also a big fan of basketball and e-sports, and I like to follow the most important games and tournaments.
 
