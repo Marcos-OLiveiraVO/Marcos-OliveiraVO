@@ -11,7 +11,7 @@ In my profile you can see a summary of my skills and past projects. I would be h
 <br>
 
 - 🖥️ Developer: Back-End.
-- 📚 Focused on TypeScript And Node.js. <br> <br>
+- 📚 TypeScript And Node.js. <br> <br>
   [![logo TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
  [![logo node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=white)](#)
 <br>  
