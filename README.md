@@ -1,14 +1,27 @@
 
 <h1 align="center">Hi 👋, I'm Marcos Oliveira.</h1>
 
+<h4 align="center">👨‍💻 Experienced Web Developer | Node.js | TypeScript/JavaScript | Back-end Development
 
-<h4 align="center">I'm a highly experienced web developer with a strong passion for building high-performance and quality applications. Currently, I focus on back-end development, mostly using Node.js and TypeScript/JavaScript..<br><br>
+🔥 Passionate about building high-performance and quality applications<br><br>
 
-Outside of work, I like to relax listening to music, watching series and taking care of my cats. I'm also a big fan of basketball and e-sports, and I like to follow the most important games and tournaments.
+🎧 Outside of work, I enjoy:
+  <br>
+  <br>
+🎵 Listening to music: A diverse range of genres keeps me inspired and focused during my coding sessions.
+  <br>
+  <br>
+📺 Watching series: Exploring captivating narratives and thought-provoking storytelling helps me unwind and gain new perspectives.
+  <br>
+  <br>
+😺 Taking care of my cats: Spending time with my furry friends brings joy and tranquility to my life.
+  <br>
+  <br>
+🏀 Sports Enthusiast: As a basketball and e-sports fan, I eagerly follow the latest games and tournaments. It's a great way for me to stay updated and recharge my creative energy.
 
-In my profile you can see a summary of my skills and past projects. I would be happy to share more details about my work and discuss how I can contribute to your company's success.</h4>
-<br>
-<br>
+📩 Let's connect: Feel free to reach out to discuss my work in more detail and explore how I can contribute to your company's success.
+  <br>
+  <br>
 
 - 🖥️ Developer: Back-End.
 - 📚 TypeScript And Node.js. <br> <br>
