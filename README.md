@@ -14,17 +14,15 @@
 📺 Watching series: Exploring captivating narratives and thought-provoking storytelling helps me unwind and gain new perspectives.
   <br>
   <br>
-😺 Taking care of my cats: Spending time with my furry friends brings joy and tranquility to my life.
-  <br>
-  <br>
 🏀 Sports Enthusiast: As a basketball and e-sports fan, I eagerly follow the latest games and tournaments. It's a great way for me to stay updated and recharge my creative energy.
 
 📩 Let's connect: Feel free to reach out to discuss my work in more detail and explore how I can contribute to your company's success.
   <br>
   <br>
 
-- 🖥️ Developer: Back-End.
-- 📚 TypeScript And Node.js. <br> <br>
+ 🖥️ Developer: Back-End.
+ 📚 TypeScript And Node.js.
+  <br> <br>
   [![logo TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white)](#)
  [![logo node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=white)](#)
 <br>  
