@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcos Oliveira.</h1>
 
-<h4 align="center">👨‍💻 Experienced Web Developer | Node.js | TypeScript/JavaScript | Back-end Development</h4>
+<h4 align="center">👨‍💻 Experienced Web Developer | Node.js | TypeScript/JavaScript | Back-end Development.</h4>
 
 <p align="center">🔥 Passionate about building high-performance and quality applications</p>
 
