@@ -4,12 +4,6 @@
 
 <p align="center">🔥 Passionate about building high-performance and quality applications</p>
 
-<p align="center">🎧 Outside of work, I enjoy:</p>
-
-- 🎵 Listening to music: A diverse range of genres keeps me inspired and focused during my coding sessions.
-- 📺 Watching series: Exploring captivating narratives and thought-provoking storytelling helps me unwind and gain new perspectives.
-- 🏀 Sports Enthusiast: As a basketball and e-sports fan, I eagerly follow the latest games and tournaments. It's a great way for me to stay updated and recharge my creative energy.
-
 <p align="center">📩 Let's connect: Feel free to reach out to discuss my work in more detail and explore how I can contribute to your company's success.</p>
 
 <p align="center">
