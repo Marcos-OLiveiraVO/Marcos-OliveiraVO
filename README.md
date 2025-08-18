@@ -17,4 +17,4 @@
 </p>
 
 <h5 align="center">My main projects are below, so go check them out 😄.</h5>
-<h5 align="center">Thank you for visiting my profile, see you next time! 👋</h5>
+<h5 align="center">Thank you for visiting my profile, see you next time!</h5>
